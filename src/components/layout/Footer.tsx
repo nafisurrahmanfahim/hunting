@@ -125,7 +125,7 @@ const Footer = () => {
       <div className="border-t border-border">
         <div className="section-container py-6 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-muted-foreground text-sm text-center md:text-left">
-            © 2024 ForgeHexa.co. All rights reserved.
+            {/* © 2026 ForgeHexa.co. All rights reserved. */}
           </p>
           <div className="flex gap-6 text-sm text-muted-foreground">
             <a href="#" className="hover:text-foreground transition-colors">Privacy Policy</a>

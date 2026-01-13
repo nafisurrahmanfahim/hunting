@@ -88,7 +88,7 @@ const Hero = () => {
         >
           <span className="w-2 h-2 rounded-full bg-primary animate-pulse" />
           <span className="text-sm uppercase tracking-widest text-muted-foreground">
-            New Collection 2024
+            New Collection 2026 Make Nafisur rahman fahim
           </span>
         </motion.div>
 
