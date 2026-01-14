@@ -44,7 +44,7 @@ const Footer = () => {
               className="text-3xl font-serif tracking-wider text-gradient-gold inline-block mb-6"
               whileHover={{ scale: 1.02 }}
             >
-              dhakadapper<span className="text-foreground">.co</span>
+              Ornaments Hut BD<span className="text-foreground">.co</span>
             </motion.a>
             <p className="text-muted-foreground mb-6 max-w-sm leading-relaxed">
               Crafting timeless luxury jewelry that celebrates the extraordinary moments of life. 

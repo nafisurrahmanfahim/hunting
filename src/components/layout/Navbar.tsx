@@ -46,8 +46,8 @@ const Navbar = ({ isDark, toggleTheme }: NavbarProps) => {
             className="text-2xl md:text-3xl font-serif tracking-wider text-gradient-gold"
             whileHover={{ scale: 1.02 }}
           >
-            dhakadapper
-            <span className="text-foreground">.co</span>
+            Ornaments Hut BD
+            {/* <span className="text-foreground">.co</span> */}
           </motion.a>
 
           {/* Desktop Navigation */}
