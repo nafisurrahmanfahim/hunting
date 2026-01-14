@@ -38,7 +38,7 @@ const LoadingScreen = ({ onComplete }: { onComplete: () => void }) => {
           transition={{ duration: 0.6 }}
           className="mb-8"
         >
-          <h1 className="text-4xl md:text-5xl font-serif text-gradient-gold">Ornaments Hut BD</h1>
+          <h1 className="text-4xl md:text-5xl font-serif text-gradient-gold">Cresol Bangladesh</h1>
           <p className="text-muted-foreground text-sm uppercase tracking-widest mt-2">
             Luxury Jewelry
           </p>
